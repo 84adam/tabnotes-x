@@ -1,5 +1,5 @@
 # tabnotes-x
-HTML browser notepad bookmarklet
+A clean in-browser HTML/URI scratchpad bookmarklet
 
 <ol>
 <li>Paste the URI link into your address bar and hit ENTER.</li>
